@@ -32,7 +32,7 @@ The **Time-Horizon Protocol** introduces **graduated intervention levels** that 
 | 55-75% | 🔴 **Cooling Off** | +100ms latency + 5min pause for stressed assets |
 | 75-100% | 🚨 **Global Speed Limit** | 500ms cap on all trades (market stays open) |
 
-**Key Innovation:** Markets never close—they just move at different speeds.
+**Key Innovation:** Markets never close - they just move at different speeds.
 
 ---
 
@@ -50,7 +50,7 @@ The system monitors five real-time indicators:
 
 ### 2. **Preemptive Throttling**
 
-Unlike reactive systems, Level 1B activates *before* stress becomes critical—preventing feedback loops rather than responding to them.
+Unlike reactive systems, Level 1B activates *before* stress becomes critical - preventing feedback loops rather than responding to them.
 
 ### 3. **Glass Floor Transparency**
 
@@ -136,7 +136,8 @@ This project emerged from a unique experiment: **What happens when multiple AI m
 2. **ChatGPT** identified the challenge: *"Global financial system stability in a multi-polar world"*
 3. **All models brainstormed** intervention mechanisms, transparency layers, and implementation strategies
 4. **DeepSeek** transformed concepts into working code
-5. **Martin Bogner** orchestrated the collaboration and refined the system
+5. **Grok and Claude** have fine-tuned the code several times
+6. **Martin Bogner** orchestrated the collaboration and refined the system
 
 **Result:** A proof-of-concept that shows collaborative AI can solve complex regulatory challenges.
 
@@ -171,7 +172,7 @@ The core principle—**adaptive speed variation as a control parameter**—appli
 A: Level 1B uses *random* delays (unpredictable). Multi-factor stress calculation is harder to manipulate than fixed thresholds.
 
 **Q: What if the model fails during a real crisis?**  
-A: Level 4 (Global Speed Limit) acts as ultimate failsafe—markets slow to 500ms but never close.
+A: Level 4 (Global Speed Limit) acts as ultimate failsafe - markets slow to 500ms but never close.
 
 **Q: How is this different from existing circuit breakers?**  
 A: Current systems are binary (on/off). This is graduated (five levels) and preemptive (acts before crisis).
@@ -191,9 +192,9 @@ Free to use, modify, and distribute. Commercial use allowed.
 
 ## 🙏 Acknowledgments
 
-- **Collaborative AI Framework:** ChatGPT (OpenAI), Gemini (Google), DeepSeek, Claude (Anthropic)
+- **Collaborative AI Framework:** ChatGPT (OpenAI), Gemini (Google), DeepSeek, Grok (xAI) Claude (Anthropic)
 - **System Architect:** Martin Bogner
-- **Inspiration:** Flash crashes of 2010, 2015, 2020—and the belief that markets can do better
+- **Inspiration:** Flash crashes of 2010, 2015, 2020 - and the belief that markets can do better
 
 ---
 
