@@ -71,11 +71,11 @@ The protocol measures five key factors in real-time:
 |--------|--------|--------|
 | **Volatility Index** | 30% | VIX, market variance |
 | **Geopolitical Risk** | 25% | Live news feeds, state media tone analysis |
-| **Sentiment Fragility** | 20% | Social media panic indicators (X/Twitter) |
+| **Sentiment Fragility** | 20% | Social sentiment fragility (large-scale public communication platforms) |
 | **Market Velocity** | 15% | Trade volume acceleration |
 | **Orderbook Imbalance** | 10% | Buy/sell pressure asymmetry |
 
-These factors are combined into a **normalized stress score (0-100%)**. Exponential scaling ensures that extreme values trigger faster responses.
+These factors are combined into a **normalized stress score (0-100%)**. Exponential scaling reflects empirical observations that systemic risk accelerates sharply beyond critical tresholds.
 
 ### 2.3 The Five Intervention Levels
 
@@ -94,7 +94,7 @@ These factors are combined into a **normalized stress score (0-100%)**. Exponent
 - Traditional investors unaffected
 
 #### **Level 3: Cooling Off** (Stress 55-75%)
-- 100ms latency + 5-minute "pause" for stressed assets
+- 100ms latency + 5-minute "cooling window" for stressed assets (orders will be slowly processed)
 - Identified assets (e.g., leveraged ETFs, meme stocks) temporarily slow-traded
 - Market remains open for other securities
 
@@ -113,7 +113,7 @@ Regulatory interventions often face accusations of manipulation:
 - "Did the Fed favor certain institutions?"  
 - "Were thresholds adjusted mid-crisis?"
 
-**Solution:** Make every intervention auditable.
+**Solution:** Make every intervention auditable - both in real time and retrospectively.
 
 ### 3.2 How It Works
 
@@ -157,7 +157,7 @@ This allows independent verification without exposing sensitive real-time data.
 | T+3min | Liquidity vanishes | None | Level 2: HFT slowed to 50ms |
 | T+5min | -600 points | Circuit breaker HALT | Level 3: Cooling off, market still open |
 
-**Result:** Gradual slowdown prevents the catastrophic acceleration that triggered the halt.
+**Indicative result:** A gradual slowdown would likely have reduced the acceleration dynamics that precipitated the halt.
 
 ### 4.2 Maintains Liquidity
 
@@ -235,7 +235,7 @@ Financial markets don't need more emergency brakes—they need **cruise control*
 The Time-Horizon Protocol demonstrates that:
 1. Markets can self-regulate through adaptive friction
 2. Transparency builds trust more than secrecy
-3. Collaborative AI development can solve systemic problems
+3. Collaborative, human-supervised AI frameworks can accelerate the exploration of complex regulatory design spaces
 
 This is not a finished product. It's a **proof of concept**—an invitation for regulators, exchanges, and researchers to explore alternatives to binary thinking.
 
@@ -259,7 +259,7 @@ This is not a finished product. It's a **proof of concept**—an invitation for 
 **License:** Apache 2.0  
 **Contact:** [Your preferred contact method]
 
-**Acknowledgments:** This work was created through a collaborative multi-AI framework where ChatGPT, Gemini, DeepSeek, and Claude jointly designed solutions to systemic financial stability challenges. Martin Bogner served as orchestrator and system architect.
+**Acknowledgments:** This work was created through a collaborative multi-AI framework where ChatGPT, Gemini, DeepSeek, Grok and Claude jointly designed solutions to systemic financial stability challenges. Martin Bogner served as orchestrator and system architect.
 
 ---
 
