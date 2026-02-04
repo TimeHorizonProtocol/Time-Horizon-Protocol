@@ -3,7 +3,7 @@
 **Version 1.0 | February 2026**
 
 **Author:** Martin Bogner  
-**Contributors:** Multi-AI Collaborative Framework (ChatGPT, Gemini, DeepSeek, Claude)
+**Contributors:** Multi-AI Collaborative Framework (ChatGPT, Gemini, DeepSeek, Grok and Claude)
 
 ---
 
