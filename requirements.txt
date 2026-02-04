@@ -1,0 +1,24 @@
+# Time-Horizon Protocol - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core async functionality (built-in, but listed for clarity)
+# asyncio - included in Python 3.7+
+
+# Optional: For visualization (if you want to add chart export later)
+matplotlib>=3.5.0
+
+# Optional: For enhanced data handling in backtesting
+pandas>=1.3.0
+
+# Optional: For real API integration (when moving beyond mocks)
+aiohttp>=3.8.0
+requests>=2.27.0
+
+# Optional: For IPFS Glass Floor publishing
+# ipfshttpclient>=0.8.0
+
+# Development dependencies
+pytest>=7.0.0
+pytest-asyncio>=0.18.0
+black>=22.0.0
+mypy>=0.950
