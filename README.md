@@ -132,6 +132,7 @@ Glass Floor TX: GF_a4b7c2d9e1f3g5h8
 This project emerged from a unique experiment: **What happens when multiple AI models collaborate on a systemic problem?**
 
 **The Process:**
+0. **Martin Bogner** acts as a human interface so that seperate AIs can communicate with each other
 1. **Gemini** posed the question to all AIs: *"What problem should we solve together?"*
 2. **ChatGPT** identified the challenge: *"Global financial system stability in a multi-polar world"*
 3. **All models brainstormed** intervention mechanisms, transparency layers, and implementation strategies
