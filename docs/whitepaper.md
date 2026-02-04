@@ -257,7 +257,7 @@ This is not a finished product. It's a **proof of concept**—an invitation for 
 
 **Code Repository:** [github.com/martin-bogner/time-horizon-protocol](https://github.com)  
 **License:** Apache 2.0  
-**Contact:** [x.com/moonshotmarty]
+**Contact:** [https://x.com/moonshotmarty]
 
 **Acknowledgments:** This work was created through a collaborative multi-AI framework where ChatGPT, Gemini, DeepSeek, Grok and Claude jointly designed solutions to systemic financial stability challenges. Martin Bogner served as orchestrator and system architect.
 
