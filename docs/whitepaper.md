@@ -230,7 +230,7 @@ The Time-Horizon Protocol's logic applies to any complex adaptive system:
 
 ## 7. Conclusion
 
-Financial markets don't need more emergency brakes—they need **cruise control**.
+Financial markets don't need more emergency brakes - they need **cruise control**.
 
 The Time-Horizon Protocol demonstrates that:
 1. Markets can self-regulate through adaptive friction
