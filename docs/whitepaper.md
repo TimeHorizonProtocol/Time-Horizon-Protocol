@@ -44,7 +44,7 @@ Traditional circuit breakers operate like emergency brakes:
 1. **Too early:** Minor volatility triggers unnecessary panic  
 2. **Too late:** By the time thresholds are hit, damage is already severe
 
-**Analogy:** Imagine a highway where traffic flow is either 120 km/h or 0 km/h—nothing in between. A traffic jam would cause chaos because there's no gradual slowdown.
+**Analogy:** Imagine a highway where traffic flow is either 120 km/h or 0 km/h - nothing in between. A traffic jam would cause chaos because there's no gradual slowdown.
 
 ---
 
