@@ -21,7 +21,7 @@ This paper presents a proof-of-concept implementation featuring multi-factor str
 
 ### 1.1 The Flash Crash Paradox
 
-On May 6, 2010, the Dow Jones Industrial Average dropped nearly 1,000 points in minutes before recovering—the infamous "Flash Crash." Despite circuit breakers being in place, the mechanisms designed to prevent chaos instead amplified it:
+On May 6, 2010, the Dow Jones Industrial Average dropped nearly 1,000 points in minutes before recovering - the infamous "Flash Crash." Despite circuit breakers being in place, the mechanisms designed to prevent chaos instead amplified it:
 
 - **Liquidity vanished** as market makers withdrew
 - **Hard stops created uncertainty** about restart conditions  
