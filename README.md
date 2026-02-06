@@ -211,7 +211,7 @@ Free to use, modify, and distribute. Commercial use allowed.
 ---
 
 <p align="center">
-  <i>"The goal is not to stop the music when the party gets wild—<br>it's to turn down the tempo before someone gets hurt."</i>
+  <i>"The goal is not to stop the music when the party gets wild - <br>it's to turn down the tempo before someone gets hurt."</i>
 </p>
 
 <p align="center">
