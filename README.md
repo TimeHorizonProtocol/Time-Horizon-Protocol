@@ -140,7 +140,7 @@ This project emerged from a unique experiment:
 2. **ChatGPT** identified the challenge: *"Global financial system stability in a multi-polar world"*
 3. **All models brainstormed** intervention mechanisms, transparency layers, and implementation strategies
 4. **DeepSeek** transformed concepts into working code
-5. **Grok and Claude** have fine-tuned the code several times
+5. **Grok and Claude** fine-tuned the code several times
 6. **Martin Bogner** orchestrated the collaboration and refined the system
 
 **Result:** A proof-of-concept that shows collaborative AI can solve complex regulatory challenges.
