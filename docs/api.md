@@ -10,7 +10,6 @@ Complete technical documentation for Time-Horizon Protocol components.
 - [Data Models](#data-models)
 - [Enums](#enums)
 - [Mock APIs](#mock-apis)
-- [Utility Functions](#utility-functions)
 - [Usage Examples](#usage-examples)
 
 ---
