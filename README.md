@@ -131,7 +131,7 @@ Glass Floor TX: GF_a4b7c2d9e1f3g5h8
 
 This project emerged from a unique experiment:
 
-**Let`s wag the dog!**
+**"Let`s wag the dog!"**
 
 **The Process:**
 
