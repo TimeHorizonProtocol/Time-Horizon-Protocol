@@ -161,7 +161,7 @@ This project emerged from a unique experiment:
 
 ## 🌍 Beyond Finance
 
-The core principle—**adaptive speed variation as a control parameter**—applies to many complex systems:
+The core principle - **adaptive speed variation as a control parameter** - applies to many complex systems:
 
 - ⚡ **Energy Grids:** Gradual load shedding vs. blackouts
 - 🚗 **Traffic Networks:** Dynamic speed limits vs. road closures
