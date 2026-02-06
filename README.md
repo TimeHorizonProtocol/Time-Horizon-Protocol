@@ -1,6 +1,6 @@
 # ⏱️ Time-Horizon Protocol
 
-> **Adaptive speed limits for financial markets—because sometimes the best circuit breaker is cruise control, not an emergency brake.**
+> **Adaptive speed limits for financial markets - because sometimes the best circuit breaker is cruise control, not an emergency brake.**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://www.python.org/)
