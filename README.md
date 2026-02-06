@@ -129,7 +129,9 @@ Glass Floor TX: GF_a4b7c2d9e1f3g5h8
 
 ## 🤝 How This Was Built
 
-This project emerged from a unique experiment: **What happens when multiple AI models collaborate on a systemic problem? - Let`s wag the dog!**
+This project emerged from a unique experiment:
+
+**What happens when multiple AI models collaborate on a systemic problem? - Let`s wag the dog!**
 
 **The Process:**
 
